@@ -19,3 +19,11 @@ Backend:
 🛢️ База данных: MongoDB (Mongoose)
 <br>
 🌍 REST API
+
+<hr>
+<h3>⚡ Launching the project</h3>
+  > npm run dev
+
+<h3>🌍 Usage</h3>
+After launching, open http://localhost:3000 in your browser. The backend runs on http://localhost:5002
+
