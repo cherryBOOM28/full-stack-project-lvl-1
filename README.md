@@ -9,14 +9,14 @@ Frontend:
 <br>
 🎨 HTML, CSS, JavaScript
 <br>
-📡 Запросы: Axios
+📡 Axios
 <br>
 <br>
 Backend:
 <br>
 🖥️ Node.js + Express.js
 <br>
-🛢️ База данных: MongoDB (Mongoose)
+🛢️ MongoDB (Mongoose)
 <br>
 🌍 REST API
 
