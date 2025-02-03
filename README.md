@@ -5,7 +5,7 @@
 <br>
 Frontend:
 <br>
-⚛️ React.js 
+⚛️ React.js + Vite
 <br>
 🎨 HTML, CSS, JavaScript
 <br>
